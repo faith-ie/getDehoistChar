@@ -1,0 +1,19 @@
+{
+  "name": "getdehoistchar",
+  "version": "1.0.0",
+  "description": "Get dehoist char",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faith1sgay/getDehoistChar.git"
+  },
+  "author": "Faith Viola",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/faith1sgay/getDehoistChar/issues"
+  },
+  "homepage": "https://github.com/faith1sgay/getDehoistChar#readme"
+}
